@@ -46,5 +46,5 @@ List of movies per actor: http://server_domain_and_port/moviesPerActor
 
 Actors played multiple characters: http://server_domain_and_port/actorsWithMultipleCharacters
 
-Characters played by multiple actors http://server_domain_and_port/charactersWithMultipleActors
+Characters played by multiple actors: http://server_domain_and_port/charactersWithMultipleActors
 
