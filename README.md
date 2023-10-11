@@ -40,11 +40,11 @@ port=<port_number> tmdbApiKey=<valid_tmdb_api_key_value> yarn start
 #### Making API calls:
 After starting the server you can make 4 get HTTP calls to the server:
 
-Health Chek: http://server_domain_and_port/
+Health Chek: http://server_domain:port/
 
-List of movies per actor: http://server_domain_and_port/moviesPerActor
+List of movies per actor: http://server_domain:port/moviesPerActor
 
-Actors played multiple characters: http://server_domain_and_port/actorsWithMultipleCharacters
+Actors played multiple characters: http://server_domain:port/actorsWithMultipleCharacters
 
-Characters played by multiple actors: http://server_domain_and_port/charactersWithMultipleActors
+Characters played by multiple actors: http://server_domain:port/charactersWithMultipleActors
 
