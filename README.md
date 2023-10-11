@@ -1,7 +1,7 @@
 # Vi Coding Assignment 
 
-This project helps us Marvel enthusiasts quering interesting data regarding our beloved heros and actio movies.
-This project is built as an express js based web server which is using The Movies Database service in order to answer the users' queries.
+This project helps us Marvel enthusiasts quering interesting data regarding our beloved heros and action movies.
+This project is built as an express js based web server which uses The Movies Database service in order to answer the users' queries.
 
 ## Tools
 - Jest for testing
