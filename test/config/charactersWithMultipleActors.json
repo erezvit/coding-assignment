@@ -1,0 +1,52 @@
+{
+  "getMoviesDetailsAndCastPositive": [
+    {
+      "id": 166424,
+      "credits": {
+        "cast": [
+          {
+            "name": "Michael B. Jordan",
+            "character": "Johnny Storm / The Human Torch"
+          },
+          {
+            "name": "Mark Ruffalo",
+            "character": "Reed Richards / Mr. Fantastic"
+          }
+        ]
+      }
+    },
+    {
+      "id": 284054,
+      "credits": {
+        "cast": [
+          {
+            "name": "Michael B. Jordan",
+            "character": "Johnny Storm / The Human Torch"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1726,
+      "credits": {
+        "cast": [
+          {
+            "name": "Robert Downey Jr.",
+            "character": "Reed Richards / Mr. Fantastic"
+          }
+        ]
+      }
+    },
+    {
+      "id": 10138,
+      "credits": {
+        "cast": [
+          {
+            "name": "Robert Downey Jr.",
+            "character": "Tony Stark / Iron Man"
+          }
+        ]
+      }
+    }
+  ]
+}

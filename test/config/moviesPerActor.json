@@ -1,0 +1,40 @@
+{
+  "getMoviesDetailsAndCastPositive": [
+    {
+      "id": 9738,
+      "credits": {
+        "cast": [
+          {
+            "name": "Ioan Gruffud"
+          },
+          {
+            "name": "Jessica Alba"
+          },
+          {
+            "name": "Chris Evans"
+          }
+        ]
+      }
+    },
+    {
+      "id": 24428,
+      "credits": {
+        "cast": [
+          {
+            "name": "Chris Evans"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1726,
+      "credits": {
+        "cast": [
+          {
+            "name": "Robert Downey Jr."
+          }
+        ]
+      }
+    }
+  ]
+}

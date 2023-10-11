@@ -4,7 +4,8 @@ __Writing what this project does...__
 
 ## Tools
 - Jest for testing
-- __List additional tools you used...__
+- axios for making API calls
+- express for exposing a web server
 
 ## Getting Started
 
@@ -26,4 +27,19 @@ yarn test
 
 ### How to use
 
-__Describe how to use the project: starting the server, using endpoints, etc.__
+#### Starting the server
+The server depends on 2 environment variables (port and tmdbApiKey), so defining those variables are required while starting the server.
+
+To start the server
+
+```shell
+port=<port_number> tmdbApiKey=<valid_tmdb_api_key_value> yarn start
+```
+
+#### Making API calls:
+After starting the server you can make 4 get HTTP calls to the server:
+Health Chek: http://server_domain_and_port/
+List of movies per actor: http://server_domain_and_port/moviesPerActor
+Actors played multiple characters: http://server_domain_and_port/actorsWithMultipleCharacters
+Characters played by multiple actors http://server_domain_and_port/charactersWithMultipleActors
+

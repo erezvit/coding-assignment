@@ -1,0 +1,52 @@
+{
+  "getMoviesDetailsAndCastPositive": [
+    {
+      "id": 166424,
+      "credits": {
+        "cast": [
+          {
+            "name": "Michael B. Jordan",
+            "character": "Johnny Storm / The Human Torch"
+          },
+          {
+            "name": "Miles Teller",
+            "character": "Reed Richards / Mr. Fantastic"
+          }
+        ]
+      }
+    },
+    {
+      "id": 284054,
+      "credits": {
+        "cast": [
+          {
+            "name": "Michael B. Jordan",
+            "character": "N'Jadaka / Erik 'Killmonger' Stevens"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1726,
+      "credits": {
+        "cast": [
+          {
+            "name": "Robert Downey Jr.",
+            "character": "Tony Stark / Iron Man"
+          }
+        ]
+      }
+    },
+    {
+      "id": 10138,
+      "credits": {
+        "cast": [
+          {
+            "name": "Robert Downey Jr.",
+            "character": "Tony Stark / Iron Man"
+          }
+        ]
+      }
+    }
+  ]
+}
